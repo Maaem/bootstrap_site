@@ -1,0 +1,39 @@
+
+/* 
+.container{ border: 1px solid; }
+.bordureRouge{ border: 3px solid red; padding: 10px; }
+.bordureVerte{ border: 3px solid green; padding: 10px; }
+.bordureBleue{ border: 3px solid blue; padding: 10px; }
+.bordureJaune{ border: 3px solid yellow; padding: 10px; }
+.bordureOrange{ border: 3px solid orange; padding: 10px; } */
+
+.headerheight{
+    min-height: 100px;
+}
+
+.footerheight{
+    min-height:50px;
+}
+
+#logo{
+    position: relative;
+    width:100px;
+    height: 50px;
+    left: 800px;
+}
+
+#block-milieu{
+    background-color: #444040;
+    opacity: 0.7;
+    min-height: 250px;
+}
+
+.btn-add{
+    background-color: #444040;
+    border:1px solid #444040;
+    text-align: center;
+}
+
+.footer{
+    background-color: #444040;
+}
